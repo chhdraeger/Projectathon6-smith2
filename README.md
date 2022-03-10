@@ -5,6 +5,8 @@ Autorin: [julia.palm@med.uni-jena.de](mailto:julia.palm@med.uni-jena.de).
 
 *Für eine Dokumentation der Änderungen, die seit Veröffentlichung des Skriptes gemacht wurden, siehe ganz unten.*
 
+test
+
 ## Einführung
 
 Dieses Projekt führt die Select-Anfrage für das SMITH Projekt im Rahmen des 6. Projectathons aus. Hier ist eine zentrale Analyse vorgesehen. Dafür erzeugt dieses Skript zwei Tabellen mit den für die Analyse benötigten Inhalten. Diese Tabellen sollen zentral zusammengeführt und an die datenauswertendende Stelle übergeben werden.
